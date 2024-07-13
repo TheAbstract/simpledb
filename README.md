@@ -22,7 +22,7 @@ Since SimpleDB has no external dependencies and is a single file you can also ju
 
 ## Usage
 
-### Simple Example
+### Simple example
 
 Here's a basic example of how to use SimpleDB to store and retrieve data:
 
