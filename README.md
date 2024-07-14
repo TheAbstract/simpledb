@@ -76,3 +76,8 @@ print('Similar items:', similar_items)
 # Close the database
 db.close()
 ```
+
+## Acknowledgements
+
+This is code I've been copying around in projects for a while.
+Originally from a blog post or repo whose source I haven't been able to find.
